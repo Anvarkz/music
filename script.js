@@ -55,7 +55,7 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8", "_9", "_10"],
     trackUrl = [
-      "https://muzmar.net/download/sara-perche-ti-amo-ricchi-e-poveri-testo/YwhkbOMVnMQ",
+      "https://track.pinkamuz.pro/download/333431b5303435318b37373133373436b20000/c51b70f3e1aec223643d1f6542eb8ec6/Richi%20%26%20Poveri%20-%20Sara%20Perche%20Ti%20Amo.mp3",
       "https://eu.hitmotop.com/get/music/20170902/Joe_Dassin_-_Et_si_tu_nexistais_pas_48004460.mp3",
       "https://eu.hitmotop.com/get/music/20110208/Umberto_Tozzi_feat_Monica_Bellucci_-_Ti_amo_391958.mp3",
       "https://eu.hitmotop.com/get/music/20170903/Andrea_Bocelli_-_Cant_Help_Falling_In_Love_48076869.mp3",
