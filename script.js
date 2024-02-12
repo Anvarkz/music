@@ -57,7 +57,7 @@ $(function () {
     trackUrl = [
       "https://track.pinkamuz.pro/download/333431b5303435318b37373133373436b20000/c51b70f3e1aec223643d1f6542eb8ec6/Richi%20%26%20Poveri%20-%20Sara%20Perche%20Ti%20Amo.mp3",
       "https://muzub.net/uploads/music/2024/02/Joe_Dassin_Et_si_tu_n_existais_pas.mp3",
-      "https://eu.hitmotop.com/get/music/20110208/Umberto_Tozzi_feat_Monica_Bellucci_-_Ti_amo_391958.mp3",
+      "https://track.pinkamuz.pro/download/b33432303733318d373230b334313736370300/184a8a1703b0e0ae3922d60146146000/Umberto%20Tozzi%20et%20Monica%20Bellucci%20-%20Ti%20Amo%20%28OST%20По%20ту%20сторону%20кровати%20De%20l%27autre%20cote%20du%20lit%29.mp3",
       "https://eu.hitmotop.com/get/music/20170903/Andrea_Bocelli_-_Cant_Help_Falling_In_Love_48076869.mp3",
       "https://eu.hitmotop.com/get/music/20170903/Andrea_Bocelli_Giorgia_-_Vivo_per_lei_48076691.mp3",
       "https://eu.hitmotop.com/get/music/20170903/Andrea_Bocelli_-_Bsame_Mucho_48076839.mp3",
