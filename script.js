@@ -59,7 +59,7 @@ $(function () {
       "https://muzub.net/uploads/music/2024/02/Joe_Dassin_Et_si_tu_n_existais_pas.mp3",
       "https://track.pinkamuz.pro/download/b33432303733318d373230b334313736370300/184a8a1703b0e0ae3922d60146146000/Umberto%20Tozzi%20et%20Monica%20Bellucci%20-%20Ti%20Amo%20%28OST%20По%20ту%20сторону%20кровати%20De%20l%27autre%20cote%20du%20lit%29.mp3",
       "https://track.pinkamuz.pro/download/33363435348b37353732b43436300100/e807adcc13e11df10e93d72d59ac07e3/Andrea%20Bocelli%20-%20Amore-can%27t%20help%20falling%20in%20love.mp3",
-      "https://eu.hitmotop.com/get/music/20170903/Andrea_Bocelli_Giorgia_-_Vivo_per_lei_48076691.mp3",
+      "https://track.pinkamuz.pro/download/3335313431883731353332b634b0340200/ab39e2118637848927894e678d5eccd3/Vivere%3A%20The%20Best%20of%20Andrea%20Bocelli%20-%20Vivo%20Per%20Lei%20%28feat.%20Giorgia%29.mp3",
       "https://eu.hitmotop.com/get/music/20170903/Andrea_Bocelli_-_Bsame_Mucho_48076839.mp3",
       "https://eu.hitmotop.com/get/music/20181019/Arctic_Monkeys_-_I_Wanna_Be_Yours_59782650.mp3",
       "https://eu.hitmotop.com/get/music/20190517/Batyrkhan_SHukenov_-_Vremya_lyubvi_Ostorozhno_milaya_devushka_2010_64265300.mp3",
