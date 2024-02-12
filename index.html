@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Music Player | Audio Player 🎵</title>
+  <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.3.1/css/all.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!-- Tracks used in this music/audio player application are free to use. I downloaded them from Soundcloud and NCS websites. I am not the owner of these tracks. -->
+
+<div id="app-cover">
+  <div id="bg-artwork"></div>
+  <div id="bg-layer"></div>
+  <div id="player">
+    <div id="player-track">
+      <div id="album-name"></div>
+      <div id="track-name"></div>
+      <div id="track-time">
+        <div id="current-time"></div>
+        <div id="track-length"></div>
+      </div>
+      <div id="s-area">
+        <div id="ins-time"></div>
+        <div id="s-hover"></div>
+        <div id="seek-bar"></div>
+      </div>
+    </div>
+    <div id="player-content">
+      <div id="album-art">
+        <img src="https://f4.bcbits.com/img/a4100276460_10.jpg" id="_1">
+        <img src="https://www.covrik.com/covers/20150228/22212019181716151413121110987654321cd_rs.jpg" id="_2">
+        <img src="https://www.mariage.com/wp-content/uploads/2015/04/ti-amo.jpg" id="_3">
+        <img src="https://static.hitmcdn.com/covers/a/354/ae7/52326.jpg" id="_4">
+        <img src="https://static.hitmcdn.com/covers/a/354/ae7/52326.jpg" id="_5">
+        <img src="https://static.hitmcdn.com/covers/a/354/ae7/52326.jpg" id="_6">
+        <img src="https://static.hitmcdn.com/covers/a/587/853/8338.jpg" id="_7">
+        <img src="https://avatars.yandex.net/get-music-content/149669/e7cad59a.a.8047939-1/m1000x1000?webp=false" id="_8">
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1b/15/38/1b15388f-eecb-a8dc-9099-c4f022857c72/0.jpg/1200x1200bf-60.jpg" id="_9">
+        <img src="https://cdn42.zvuk.com/pic?type=release&id=21352771&ext=jpg&size=1920x1920" id="_10">
+        <div id="buffer-box">Buffering ...</div>
+      </div>
+      <div id="player-controls">
+        <div class="control">
+          <div class="button" id="play-previous">
+            <i class="fas fa-backward"></i>
+          </div>
+        </div>
+        <div class="control">
+          <div class="button" id="play-pause-button">
+            <i class="fas fa-play"></i>
+          </div>
+        </div>
+        <div class="control">
+          <div class="button" id="play-next">
+            <i class="fas fa-forward"></i>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
